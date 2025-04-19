@@ -43,7 +43,7 @@ I started installing Python in 2012 on a Windows machine:
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-And, instead of being able to immediately write code, I was angry a lot, even more than Twitter would have you believe. In fact, it was so frustrating, that I channeled all of my energy into [this post](http://vickibwrites.com/2015/06/05/implementation/). 
+And, instead of being able to immediately write code, I was angry a lot, even more than Twitter would have you believe. In fact, it was so frustrating, that I channeled all of my energy into [this post](https://web.archive.org/web/20180116022724/vickibwrites.com/2015/06/05/implementation/). 
 
 As someone with a lot of Python experience now, my stance is that it's still incredibly hard to understand how to install Python for people new to both Python and development. The best way to get an idea of how hard it can be is to do a Google search.   
 
